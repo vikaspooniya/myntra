@@ -16,6 +16,11 @@ a{
     color: inherit;
     display: block;
 }
+li:hover{
+    color:black;
+    font-weight: bold;
+    cursor: pointer;
+}
 .flot{
     position: fixed;
     bottom: 130px;
